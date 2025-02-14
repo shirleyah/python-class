@@ -5,7 +5,8 @@ Fecha: [dd/mm/yyyy]
 Participantes: 
 
 - [nombre]  <email: >
-- [nombre]  <email: > 
+- [nombre]  <email: >
+- Pepe prueba josesv@lcg.unam.mx
 
 ## Descripción del Problema
 <!-- Puedes empezar con una introducción, luego la justificación y plantear el problema. -->
