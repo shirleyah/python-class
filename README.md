@@ -1,2 +1,4 @@
 # Nombre del proyecto
-## Descripción
+## Descripci??n
+## Metodologia
+## Contacto
