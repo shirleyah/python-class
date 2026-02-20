@@ -1,4 +1,6 @@
 # Nombre del proyecto
-## Descripci??n
+## Objetivo
+## Descripción
 ## Metodologia
 ## Contacto
+## Licencia
